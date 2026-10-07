@@ -17,7 +17,6 @@ ari-news-opal-ai/
 
 ```
 
-```markdown
 # 🤖 ARI News — Dashboard de Inteligencia Estratégica con Agentes de IA
 
 ![Google Opal](https://img.shields.io/badge/Platform-Google%20Opal-blue?style=for-the-badge)
