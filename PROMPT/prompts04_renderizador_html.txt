@@ -1,0 +1,11 @@
+Diseña y renderiza un dashboard HTML/CSS profesional para el portal ARI News utilizando la información validada y la imagen generada.
+
+Estructura y Reglas Visuales:
+1. Alterna los fondos de los bloques de noticias:
+   - Bloques impares (1º, 3º, etc.): Fondo Blanco Puro (#FFFFFF)
+   - Bloques pares (2º, 4º, etc.): Fondo Gris Suave (#F9F9F9)
+2. Cada bloque debe iniciar con una numeración secuencial formateada como "01 / 03", "02 / 03", etc., estilizada en Gris Mate (#555555).
+3. Utiliza Negro Charcoal (#0D0D0D) para títulos principales y párrafos de texto.
+4. Utiliza Azul Cobalto (#2738F5) como color de acento principal para botones (CTA), enlaces activos y elementos destacados.
+5. Incluye la imagen conceptual en el encabezado principal del dashboard con un diseño adaptativo.
+6. Todo el código debe ser HTML5 y CSS3 limpio, semántico y totalmente responsivo.

@@ -1,0 +1,13 @@
+No muestres noticias desactualizadas, a menos que encajen estrictamente dentro de la línea de tiempo solicitada por el usuario.
+
+Búsqueda Estratégica:
+Identifica y extrae las noticias más relevantes según los parámetros proporcionados. 
+
+Requisito de Idioma:
+Todo el contenido generado, títulos, resúmenes y textos de salida deben estar escritos íntegramente en español.
+
+User Input / Context:
+- Sector: [Sector]
+- Región: [Región]
+- Fecha_noticias: [Fecha_noticias]
+- Número_noticias: [Número_noticias]
