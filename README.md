@@ -1,8 +1,3 @@
-¡Excelente proyecto! Para publicar y destacar tu trabajo en GitHub, la estructura clave debe incluir un archivo **`README.md`** completo y profesional (que explique el proyecto, el pipeline de agentes de IA y cómo replicarlo) junto con los archivos del proyecto bien organizados.
-
-A continuación tienes la propuesta para organizar y crear tu repositorio:
-
----
 
 ## 1. Estructura de Carpetas del Repositorio
 
@@ -21,12 +16,6 @@ ari-news-opal-ai/
     └── 04_renderizador_html.txt    (Prompt de la interfaz/dashboard HTML)
 
 ```
-
----
-
-## 2. Contenido para tu `README.md`
-
-Copia y pega este contenido directamente en el archivo `README.md` de tu repositorio:
 
 ```markdown
 # 🤖 ARI News — Dashboard de Inteligencia Estratégica con Agentes de IA
@@ -123,7 +112,6 @@ El dashboard utiliza la siguiente identidad visual para mantener un tono corpora
 - **Evento:** Inmersión Agentes de IA para Negocios — Clase 1
 - **Organización:** [Alura Cursos](https://www.aluracursos.com/)
 - **Herramienta:** [Google Opal](https://opal.google/)
-- **Clase de Referencia:** [Ver clase en Alura](https://app.aluracursos.com/imersoes/aulas/clase-1-crea-una-pagina-web-de-noticias-estrategicas-personalizadas-con-ia-c7)
 
 ```
 
