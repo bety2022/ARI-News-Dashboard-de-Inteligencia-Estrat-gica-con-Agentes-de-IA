@@ -1,22 +1,4 @@
 
-## 1. Estructura de Carpetas del Repositorio
-
-Puedes organizar tus archivos en GitHub de la siguiente manera:
-
-```text
-ari-news-opal-ai/
-├── README.md
-├── docs/
-│   ├── pipeline-diagram.png        (Captura del pipeline visual en Opal)
-│   └── dashboard-preview.png       (Captura de la página generada)
-└── prompts/
-    ├── 01_buscador_noticias.txt    (Prompt del agente de búsqueda)
-    ├── 02_validador_links.txt      (Prompt del agente de validación)
-    ├── 03_generador_imagen.txt     (Prompt del agente visual)
-    └── 04_renderizador_html.txt    (Prompt de la interfaz/dashboard HTML)
-
-```
-
 # 🤖 ARI News — Dashboard de Inteligencia Estratégica con Agentes de IA
 
 ![Google Opal](https://img.shields.io/badge/Platform-Google%20Opal-blue?style=for-the-badge)
