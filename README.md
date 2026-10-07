@@ -24,3 +24,28 @@ Proyecto construido durante la **Inmersión Agentes de IA para Negocios** de **A
 ## 🧠 Arquitectura del Pipeline de Agentes
 
 El flujo de trabajo en Google Opal se compone de los siguientes agentes:
+
+[Entradas de Usuario]
+(Sector, Región, Fecha, Nº Noticias)
+│
+▼
+┌───────────────────────────┐
+│  Agente 1: Búsqueda Web   │ ──► Filtra y extrae noticias reales
+└─────────┬─────────────────┘
+│
+▼
+┌───────────────────────────┐
+│  Agente 2: Validador URLs │ ──► Elimina alucinaciones de links
+└─────────┬─────────────────┘
+│
+├────────────────────────────────┐
+▼                                ▼
+┌───────────────────────────┐    ┌───────────────────────────┐
+│ Agente 3: Arte & Branding │    │  Agente 4: Renderizador   │
+│   (Prompt de Imagen)      │    │         HTML/CSS          │
+└─────────┬─────────────────┘    └─────────┬─────────────────┘
+│                                │
+└────────────────────────────────┘
+│
+▼
+[ Dashboard Final ARI News ]
