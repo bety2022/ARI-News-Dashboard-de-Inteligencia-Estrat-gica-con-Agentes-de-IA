@@ -64,15 +64,11 @@ El flujo de trabajo en Google Opal se compone de los siguientes agentes:
 
 ---
 
-## 🎨 Paleta de Colores & Diseño
+## 📸 Vista Previa del Dashboard
 
-El dashboard utiliza la siguiente identidad visual para mantener un tono corporativo y elegante:
+![ARI News Encabezado y Bloque 1](docs/1.jpg)
 
-- **Fondo Bloques Principales / Impares:** Blanco Puro (`#FFFFFF`)
-- **Fondo Bloques Secundarios / Pares:** Gris Suave (`#F9F9F9`)
-- **Tipografía Principal:** Negro Charcoal (`#0D0D0D`)
-- **Metadatos e Índices (`01 / 03`):** Gris Mate (`#555555`)
-- **Color de Acento / Interacción:** Azul Cobalto (`#2738F5`)
+![ARI News Bloques 2 y 3](docs/2.png)
 
 ---
 
