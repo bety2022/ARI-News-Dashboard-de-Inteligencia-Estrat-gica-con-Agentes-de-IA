@@ -90,6 +90,9 @@ El flujo de trabajo en Google Opal se compone de los siguientes agentes:
 - **Organización:** [Alura Cursos](https://www.aluracursos.com/)
 - **Herramienta:** [Google Opal](https://opal.google/)
 
+## 📧 Contacto
+¿Tienes un proyecto en mente? Conectémonos y hagamos que las cosas sucedan! Puedes escribirme a carolinalopezdatascientist@gmail.com o seguirme en [LinkedIn](https://www.linkedin.com/in/carolina-lopez-430208106/).
+<br /><br />
 ```
 
 ---
