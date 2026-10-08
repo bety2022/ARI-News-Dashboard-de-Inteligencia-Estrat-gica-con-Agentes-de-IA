@@ -66,9 +66,9 @@ El flujo de trabajo en Google Opal se compone de los siguientes agentes:
 
 ## 📸 Vista Previa del Dashboard
 
-![ARI News Encabezado y Bloque 1](docs/1.jpg)
+![ARI News Encabezado y Bloque 1](dashboard-preview-1.png.png) 
 
-![ARI News Bloques 2 y 3](docs/2.png)
+![ARI News Bloques 2 y 3](dashboard-preview-2.png.png)
 
 ---
 
